@@ -147,7 +147,7 @@
 //     for (let i =0;i<data.length;i++){
 //         output.push(logic(data[i]));
 //     }
-//     return output;
+//      return output;
 
 // }
 
@@ -204,12 +204,13 @@
 
 
 
-const arr =[2,3,4,5,6,7,8]
+// const arr =[2,3,4,5,6,7,8]
 
-function isOdd(x){
-    return x%2
-}
+// function isOdd(x){
+    // return x%2
+// }
 
-const output = arr.filter(isOdd);
+// const output = arr.filter(isOdd);
 
-console.log(output);
+// console.log(output);
+console.log("hello");
