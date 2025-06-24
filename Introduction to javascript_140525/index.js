@@ -53,8 +53,16 @@
 
 //SERTINTERVAL
 
-for (var i=0; i<=10;i++){
-    setTimeout(()=>{
-        console.log(i);
-    },2000)
-}
+//for (var i=0; i<=10;i++){
+    //setTimeout(()=>{
+       // console.log(i);
+    //},2000)
+//}
+//var abc = function xyz() 
+//{
+  
+//}
+//console.log(abc);
+//console.log(xyz); 
+let person = { name: "Mahak" };
+person = null; 
